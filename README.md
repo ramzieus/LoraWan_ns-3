@@ -5,7 +5,7 @@ The Network Simulator with LoRaWan Examples
 ## Building ns-3
 
 ```shell
-git clone git@github.com:ramzihemadou/LoraWan_ns-3.git ns-3
+git clone https://github.com/ramzihemadou/LoraWan_ns-3.git ns-3
 
 cd ns-3
 
