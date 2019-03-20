@@ -9,6 +9,8 @@ git clone https://github.com/ramzihemadou/LoraWan_ns-3.git ns-3
 
 cd ns-3
 
+./waf clean
+
 ./waf configure --enable-tests --enable-examples
 
 ./waf build
